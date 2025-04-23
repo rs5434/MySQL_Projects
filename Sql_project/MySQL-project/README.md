@@ -46,4 +46,4 @@ Contributions are encouraged! If you have suggestions for improvements or additi
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ### Contact
-For any questions or feedback, feel free to reach out to me at shubhamsharma15104@gmail.com or through https://github.com/Shubham-S151.
+For any questions or feedback, feel free to contact me at rudrarockshigh9068@gmail.com or through https://github.com/rs5434.
